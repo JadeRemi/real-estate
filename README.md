@@ -1,6 +1,7 @@
 # Real estate application
 
 Application for previewing available real estate positions using a mock api. Adaptive interface included.
+
 View live at https://jaderemi.github.io/real-estate-build/
 
 ## Available Scripts
