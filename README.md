@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Real estate application
+
+Application for previewing available real estate positions using a mock api. Adaptive interface included.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
